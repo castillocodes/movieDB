@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTyles from 'prop-types';
+import PropTypes from 'prop-types';
 // Styles
 import { Wrapper, Image } from './Actor.styles';
 
